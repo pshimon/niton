@@ -1,0 +1,10 @@
+niton is very simple languge. It has no variables, functions, procedures loops and other constructs which
+are usually source of bugs. It uses only four symbols:
+1. space (0x20)
+2. CR (0x0D)
+3. LF (0x0A)
+4. tab (0x09)
+
+Any niton program starts from eight CR and ends with eight LF. Body of program consists of arbitrary sequence of words each of which includes eight space and tab (in any order). It is not that difficult to prove that niton is Turing complete and hence is legitimate computer language. Grouping by eight is not necessary theoretically but is included for better compatibility with standard hardware.
+
+Pure niton programs need no input and produce no output. They really do nothing but they do it in bug free and secure way.

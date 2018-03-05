@@ -1,0 +1,23 @@
+Why it is called niton?
+The name niton has nothing to do with some remote village or chemical element (radon Rn 86). Full name of the language should be " Knight on the guard" but according niton principle of minimal typing it is simplified and shortened. Strictly speaking the most appropriate name would be empty string but for compatibility reasons we decided to remain some printable characters.
+
+Is nithon compiled or interpreted language.
+Neigher or both. Any compiler or inrepreter designed for any language can process pure niton program.
+
+What is bug free programming?
+Programs writen in all modern (but would be obsolete ) languages contain bugs. Just for this reason the long and
+sometimes difficult debugging and testing cycles are needed. Time to market is long, a number of project and product managers
+to cope with missed deadlines milestones, sprints etc. is needed. When BFP is properly implemented all these ramifications can ber avoided.
+Using BFP metodology programmers write bug free programs and managers are in charge that their subordinates do not violate 
+BFP principles.
+
+Is bug  free programming possible?
+Yes, sure. A lot of programs even writen in tarditional languages is bug free for all practical purpuses (sometimes after long and painful debugging and testing).
+
+Do I need niton for BFP?
+Not necessary. Bug free program can be written in any language. niton just makes the process less painful. (see niton language description)
+
+Should all current software be rewriten to comply with BFP?
+No. Though this is theoretically possible and even desirable such project is evidently too expensive.
+There is beeter way - ultraviolet wrapper, which is able to make BFP fprom any PBFP.
+
